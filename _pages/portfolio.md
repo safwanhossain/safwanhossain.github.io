@@ -31,5 +31,3 @@ Recent Awards and Honours
 * **October 2018**: Arts and Science Graduate Fellowship 
 * **September 2018**: Wolfond Graduate Scholarship             
 
-For more details, take a look at my [CV](https://safwanhossain.github.io/files/resume.pdf)
-  
