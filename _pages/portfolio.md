@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **MSc Computer Science**, University of Toronto, 2020 (expected)  
-* **BSc Electrical and Computer Engineering** (cGPA: 3.95), University of Toronto, 2018
+* **BSc Electrical and Computer Engineering**, University of Toronto, 2018
 
 Work experience
 ======
@@ -25,8 +25,11 @@ Work experience
   
 Recent Awards and Honours
 ======
-* **June 2019** Ontario Graduate Scholarship
-* **May 2019** Vector Research Grant
-* **November 2018** Vector Scholarship in Artificial Intelligence
-* **October 2018** Arts and Science Graduate Fellowship 
-* **September 2018** Wolfond Graduate Scholarship               
+* **June 2019**: Ontario Graduate Scholarship
+* **May 2019**: Vector Research Grant
+* **November 2018**: Vector Scholarship in Artificial Intelligence
+* **October 2018**: Arts and Science Graduate Fellowship 
+* **September 2018**: Wolfond Graduate Scholarship             
+
+For more details, take a look at my [CV](https://safwanhossain.github.io/files/resume.pdf)
+  
