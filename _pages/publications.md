@@ -10,10 +10,7 @@ Manuscripts
 * **The surprising power of hiding information in facility location** [Manuscript, 2019](https://safwanhossain.github.io/files/hiding.pdf)
     * Safwan Hossain, [Evi Micha](http://www.cs.toronto.edu/~emicha/), [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/)
 * **Pure Nash Equilibrium of Linear Regression** [Manuscript, 2019](https://safwanhossain.github.io/files/equilibria_linreg.pdf)
-    * Safwan Hossain,[Nisarg Shah](http://www.cs.toronto.edu/~nisarg/)
-
-arXiv
-======
+    * Safwan Hossain, [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/)
 * **DeepConsensus: Using Consensus of Features From Multiple Layers to Attain Robust Image Classification** [paper, 2018](https://arxiv.org/abs/1811.07266)
     * Yuchen Li, Safwan Hossain, Kiarash Jamali, [Frank Rudzicz](http://www.cs.toronto.edu/~frank/)
 * **ChainGAN: A Sequential Approach to GANs** [paper, 2018](https://arxiv.org/abs/1811.08081)
