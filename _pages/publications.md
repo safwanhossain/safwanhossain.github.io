@@ -5,25 +5,25 @@ permalink: /publications/
 author_profile: true
 ---
 
-Education
+Manuscripts
 ======
-* **MSc Computer Science**, University of Toronto, 2020 (expected)  
-* **BSc Electrical and Computer Engineering**, University of Toronto, 2018
+* **The surprising power of hiding information in facility location** [Manuscript, 2019]()
+    * Safwan Hossain, [Evi Micha](), [Nisarg Shah]()
+* **Pure Nash Equilibrium of Linear Regression** [Manuscript,2019]()
+    * Safwan Hossain, Evi Micha, [Nisarg Shah]()
 
-Work experience
+arXiv
 ======
-* **Summer 2018**: Research Intern at [Vector Institute](https://vectorinstitute.ai/)
-    * Worked with Dr. Frank Rudzicz on an NLP project investigating text generation using GANs by interpreting them as word vectors. Attempted to incorporate grammatical information to aid generation. Investigated various metrics to judge quality of the samples including BLEU scores and perplexity.
-* **May 2016 - June 2017**: Compiler Engineer Intern at [Intel](https://www.intel.com/content/www/us/en/products/programmable.html)
-    * Year long internship in Intel's FPGA compiler team. Worked on optimizing routing algorithms to reduce clock skew. Modelled clock placement as a constraint satisfaction problem that resulted in 1.5\% increase in the maximum operating frequency of the latest Intel FPGA chips. 
-* **Summer 2015**: Software Engineering Intern at [Arista Network](https://www.arista.com/en/)
-    * Worked in the software defined networking team. Created an API to program against VSphere, VMware's cloud platform, to enable easy testing and deployment of cloud networking solutions. 
-  
-Recent Awards and Honours
-======
-* **June 2019**: Ontario Graduate Scholarship
-* **May 2019**: Vector Research Grant
-* **November 2018**: Vector Scholarship in Artificial Intelligence
-* **October 2018**: Arts and Science Graduate Fellowship 
-* **September 2018**: Wolfond Graduate Scholarship             
+* **DeepConsensus: Using the Consensus of Features From Multiple Layers to Attain Robust Image Classification** [paper,2018]()
+    * Yuchen Li, Safwan Hossain, Kiarash Jamali, [Frank Rudzicz]()
+* **ChainGAN: A Sequential Approach to GANs** [paper, 2018]()
+    * Safwan Hossain, Kiarash Jamali, Yuchen Li, [Frank Rudzicz]()
 
+Workshops
+======
+* **Generative Adversarial Networks for text using word2vec intermediaries** [paper, 2019]()
+    * Akshay Budhkar, Krishnapriya Vishnubhotla, Safwan Hossain, [Frank Rudzicz]()
+    * ACL 2019 Workshop on Representation Learning
+* **JacNet: Learning Functions with Structured Jacobians** [paper, 2019]()
+    * Safwan Hossain, [Jonathan Lorraine]()
+    * ICML 2019 Workshop on Invertible Neural Nets and Normalizing Flows
