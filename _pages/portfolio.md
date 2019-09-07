@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Bio"
+title: ""
 permalink: /portfolio/
 author_profile: true
 redirect_from:
@@ -11,50 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **MSc** Computer Science, University of Toronto, 2020 (expected)  
+* **BSc** Electrical and Computer Engineering (cGPA: 3.95), University of Toronto, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Summer 2015**: Software Engineering Intern at [Arista Network](https://www.arista.com/en/)
+* **May 2016 - June 2017**: Compiler Engineer Intern at [Intel](https://www.intel.com/content/www/us/en/products/programmable.html)
+* **Summer 2018**: Research Intern at [Vector Institute](https://vectorinstitute.ai/)
   
-Skills
+Recent Awards and Honours
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
-
+* Ontario Graduate Scholarship                      June 2019
+* Vector Research Grant                             May 2019
+* Vector Scholarship in Artificial Intelligence     November 2018
+* Arts and Science Graduate Fellowship              October 2018
+* Wolfond Graduate Scholarship                      September 2018
