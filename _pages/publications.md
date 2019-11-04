@@ -7,6 +7,8 @@ author_profile: true
 
 Manuscripts
 ======
+* **Designing Fairly Fair Classifiers via Economic Fairness Notions** [Manuscript, 2019](https://safwanhossain.github.io/files/envy_equity.pdf)
+    * Safwan Hossain, Andjela Mladenovic, [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/)
 * **The surprising power of hiding information in facility location** [Manuscript, 2019](https://safwanhossain.github.io/files/hiding.pdf)
     * Safwan Hossain, [Evi Micha](http://www.cs.toronto.edu/~emicha/), [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/)
 * **Pure Nash Equilibrium of Linear Regression** [Manuscript, 2019](https://safwanhossain.github.io/files/equilibria_linreg.pdf)
