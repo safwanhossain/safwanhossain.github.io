@@ -16,11 +16,14 @@ Prior to graduate school, I completed my bachelors degree in electrical and comp
 
 Recent 
 ======
-* **November 2019 - Internship at Xanadu AI**
-    * Our paper, *The surprising power of hiding information in facility location*, is accepted at AAAI 2020. [paper](https://safwanhossain.github.io/files/hiding.pdf)
+* **January 2019**
+    * Our paper, *Designing Fairly Fair Classifiers via Economic Fairness Notions*, is accepted at WWW 2020 with Oral! [paper](https://safwanhossain.github.io/files/envy_equity.pdf)
+    
+* **November 2019**
+    * Our paper, *The surprising power of hiding information in facility location*, is accepted at AAAI 2020! [paper](https://safwanhossain.github.io/files/hiding.pdf)
     * Began my internship at [Xanadu](https://www.xanadu.ai/), a quantum computing research firm, as part of a Mitacs internship. I will be investigating the potential of multiple quantum circuits connected classically for machine learning applications
-* **June 2019 - ACL 2019 Workshop**
+* **June 2019**
     * Our paper, *Generative Adversarial Networks for text using word2vec intermediaries* was accepted at the 4th Workshop on Representation Learning at ACL 2019!
-* **May 2019 - ICML 2019 Workshop**
+* **May 2019**
     * Our paper, *JacNet: Learning Functions with Structured Jacobians* was accepted at the Invertible Neural Nets and Normalizing Flows workshop at ICML 2019!
 
