@@ -17,7 +17,7 @@ Prior to graduate school, I completed my bachelors degree in electrical and comp
 Recent 
 ======
 * **January 2019**
-    * Our paper, *The Effect of Strategic Noise on Linear Regression*, was accepted at AAMAS 2020! [paper](https://safwanhossain.github.io/files/lin_reg.pdf)
+    * Our paper, *The Effect of Strategic Noise on Linear Regression*, was accepted at AAMAS 2020! [paper](https://safwanhossain.github.io/files/equilibria_linreg.pdf)
     * Our paper, *Designing Fairly Fair Classifiers via Economic Fairness Notions*, was accepted at WWW 2020 with Oral! [paper](https://safwanhossain.github.io/files/envy_equity.pdf)
     
 * **November 2019**
