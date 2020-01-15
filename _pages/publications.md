@@ -7,9 +7,9 @@ author_profile: true
 
 Conference Publications
 =====
-* **Analyzing the Effects of Strategic Noise in Linear Regression** [paper, 2019](https://safwanhossain.github.io/files/equilibria_linreg.pdf)
+* **Analyzing the Effects of Strategic Noise in Linear Regression** (AAMAS 2020) [paper](https://safwanhossain.github.io/files/equilibria_linreg.pdf)
     * Safwan Hossain, [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/)
-* **Designing Fairly Fair Classifiers via Economic Fairness Notions** (WWW 2020 with Oral) [paper, 2019](https://safwanhossain.github.io/files/envy_equity.pdf)
+* **Designing Fairly Fair Classifiers via Economic Fairness Notions** (WWW 2020 with Oral) [paper](https://safwanhossain.github.io/files/envy_equity.pdf)
     * Safwan Hossain, Andjela Mladenovic, [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/)
 * **The surprising power of hiding information in facility location** (AAAI 2020) [paper](https://safwanhossain.github.io/files/hiding.pdf)
     * Safwan Hossain, [Evi Micha](http://www.cs.toronto.edu/~emicha/), [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/)
