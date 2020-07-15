@@ -17,6 +17,8 @@ Conference Publications
     
 Manuscripts
 ======
+* **Fair Algorithms for Multi-Agent Multi-Armed Bandits.** [paper, 2020](https://arxiv.org/pdf/2007.06699.pdf)
+    * Safwan Hossain, Evi Micha, [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/)
 * **DeepConsensus: Using Consensus of Features From Multiple Layers to Attain Robust Image Classification** [paper, 2018](https://arxiv.org/abs/1811.07266)
     * Yuchen Li, Safwan Hossain, Kiarash Jamali, [Frank Rudzicz](http://www.cs.toronto.edu/~frank/)
 * **ChainGAN: A Sequential Approach to GANs** [paper, 2018](https://arxiv.org/abs/1811.08081)
