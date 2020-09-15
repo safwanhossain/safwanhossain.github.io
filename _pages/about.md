@@ -8,15 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student in computer science at the [University of Toronto](https://web.cs.toronto.edu) and [Vector Institute](https://vectorinstitute.ai/).
+I am currently a Machine Learning Engineer at Cerebras Systems. Prior to that, I was graduate student in computer science at the [University of Toronto](https://web.cs.toronto.edu) and [Vector Institute](https://vectorinstitute.ai/).
 I am grateful to be supervised by [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/) \(CS Theory group\) and [Frank Rudzicz](http://www.cs.toronto.edu/~frank/) \(Vector Institute\). 
-My research explores strategic behaviour, fairness, and incentives in machine learning using techniques from algorithmic game theory, economics and mechanism design. 
-As secondary interests, I have also delved into generative modelling and neural ODEs. 
+My research explores strategic behaviour, fairness, and incentives in machine learning using techniques from algorithmic game theory, economics and mechanism design. I still continue to work on such research topics while in industry. 
 Prior to graduate school, I completed my bachelors degree in electrical and computer engineering at the University of Toronto.
 
 Recent 
 ======
-* **January 2019**
+* **August 2020**
+    * I have joined [Cerebras Systems](https://www.cerebras.net/) as a Machine Learning Engineer! Cerebras have build the world's most powerful chip using wafer-scale integration to accelerate artificial intelligence by orders of magnitude beyond the current state. I will be initially working on the ML Frameworks team to provide integration with libraries like pyTorch and Tensorflow. 
+    
+* **June 2020**
+    * Our new paper on fair algorithms for multi-armed bandits using Nash Welfare is on arxiv! [paper](https://www.cs.toronto.edu/~nisarg/papers/fairMAB.pdf)
+    
+* **January 2020**
     * Our paper, *The Effect of Strategic Noise on Linear Regression*, was accepted at AAMAS 2020! [paper](https://safwanhossain.github.io/files/equilibria_linreg.pdf)
     * Our paper, *Designing Fairly Fair Classifiers via Economic Fairness Notions*, was accepted at WWW 2020 with Oral! [paper](https://safwanhossain.github.io/files/envy_equity.pdf)
     
