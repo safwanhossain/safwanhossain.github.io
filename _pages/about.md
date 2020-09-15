@@ -10,13 +10,13 @@ redirect_from:
 
 I am currently a Machine Learning Engineer at Cerebras Systems. Prior to that, I was graduate student in computer science at the [University of Toronto](https://web.cs.toronto.edu) and [Vector Institute](https://vectorinstitute.ai/).
 I am grateful to be supervised by [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/) \(CS Theory group\) and [Frank Rudzicz](http://www.cs.toronto.edu/~frank/) \(Vector Institute\). 
-My research explores strategic behaviour, fairness, and incentives in machine learning using techniques from algorithmic game theory, economics and mechanism design. I still continue to work on such research topics while in industry. 
+My research explores strategic behaviour, fairness, and incentives in machine learning using techniques from algorithmic game theory, economics and mechanism design (I still continue to work on these topics). 
 Prior to graduate school, I completed my bachelors degree in electrical and computer engineering at the University of Toronto.
 
 Recent 
 ======
 * **August 2020**
-    * I have joined [Cerebras Systems](https://www.cerebras.net/) as a Machine Learning Engineer! Cerebras have build the world's most powerful chip using wafer-scale integration to accelerate artificial intelligence by orders of magnitude beyond the current state. I will be initially working on the ML Frameworks team to provide integration with libraries like pyTorch and Tensorflow. 
+    * I have joined [Cerebras Systems](https://www.cerebras.net/) as a Machine Learning Engineer! Cerebras builds the world's most powerful chip using wafer-scale integration to accelerate artificial intelligence by orders of magnitude beyond the current state. I will be initially working on the ML Frameworks team to provide integration with libraries like pyTorch and Tensorflow. 
     
 * **June 2020**
     * Our new paper on fair algorithms for multi-armed bandits using Nash Welfare is on arxiv! [paper](https://www.cs.toronto.edu/~nisarg/papers/fairMAB.pdf)
