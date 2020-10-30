@@ -26,6 +26,10 @@ Manuscripts
 
 Workshops
 ======
+* **Analyzing Text Specific vs Blackbox Fairness Algorithms in Multimodal Clinical NLP** [paper, 2019](https://safwanhossain.github.io/files/clinical_nlp.pdf)
+    * John Chen, Ian Berlot-Attwell, Safwan Hossain, Xindi Wang, [Frank Rudzicz](http://www.cs.toronto.edu/~frank/)
+    * 3rd Clinical Natural Language Processing Workshop at EMNLP
+    * Won best short paper!!!
 * **Generative Adversarial Networks for text using word2vec intermediaries** [paper, 2019](https://arxiv.org/pdf/1904.02293.pdf)
     * Akshay Budhkar, Krishnapriya Vishnubhotla, Safwan Hossain, [Frank Rudzicz](http://www.cs.toronto.edu/~frank/)
     * ACL 2019 Workshop on Representation Learning
