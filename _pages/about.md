@@ -17,6 +17,7 @@ Recent
 ======
 * **September 2020**
   * Our paper, *Analyzing Text Specific vs Blackbox Fairness Algorithms in Multimodal Clinical NLP*, was accepted at the 3rd Clinical Natural Language Processing Workshop at EMNLP [paper](https://safwanhossain.github.io/files/clinical_nlp.pdf)!
+  * UPDATE: This paper was selected as the best short paper at the 3rd Clinical Natural Language Processing Workshop at EMNLP!
   
 * **August 2020**
     * I have joined [Cerebras Systems](https://www.cerebras.net/) as a Machine Learning Engineer! Cerebras builds the world's most powerful chip using wafer-scale integration to accelerate artificial intelligence by orders of magnitude beyond the current state. I will be initially working on the ML Frameworks team to provide integration with libraries like pyTorch and Tensorflow. 
