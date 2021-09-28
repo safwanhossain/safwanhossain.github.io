@@ -16,7 +16,7 @@ Prior to graduate school, I completed my bachelors degree in electrical and comp
 Recent 
 ======
 * **September 2021**
-  * Our paper, *Fair Algorithms for Multi-Agent Multi-Armed Bandits*, was accepted at NeurIPS 2021! [paper](https://safwanhossain.github.io/files/fairMAB.pdf)!
+  * Our paper, *Fair Algorithms for Multi-Agent Multi-Armed Bandits*, was accepted at NeurIPS 2021! [paper](https://safwanhossain.github.io/files/fairMAB.pdf)
   
 * **September 2020**
   * Our paper, *Analyzing Text Specific vs Blackbox Fairness Algorithms in Multimodal Clinical NLP*, was accepted at the 3rd Clinical Natural Language Processing Workshop at EMNLP [paper](https://safwanhossain.github.io/files/clinical_nlp.pdf)!
