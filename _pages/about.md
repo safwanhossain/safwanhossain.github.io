@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am currently a Machine Learning Engineer at Cerebras Systems. Prior to that, I was graduate student in computer science at the [University of Toronto](https://web.cs.toronto.edu) and [Vector Institute](https://vectorinstitute.ai/).
-I am grateful to be supervised by [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/) \(CS Theory group\) and [Frank Rudzicz](http://www.cs.toronto.edu/~frank/) \(Vector Institute\). 
+I am grateful to have been supervised by [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/) \(CS Theory group\) and [Frank Rudzicz](http://www.cs.toronto.edu/~frank/) \(Vector Institute\). 
 My research explores strategic behaviour, fairness, and incentives in machine learning using techniques from algorithmic game theory, economics and mechanism design (I still continue to work on these topics). 
 Prior to graduate school, I completed my bachelors degree in electrical and computer engineering at the University of Toronto.
 
