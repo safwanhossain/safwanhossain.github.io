@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student at Harvard, working in the [EconCS](https://econcs.seas.harvard.edu/) group with [Yiling Chen](https://yiling.seas.harvard.edu/). Prior to this, I was a machine learning engineer at Cerebras Systems, where I built Tensorflow support for running very large models on our custom accelator. I completed by Master's degree in computer science at the [University of Toronto](https://web.cs.toronto.edu) where I was supervised by [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/) as part of the CS Theory group. I completed my bachelors degree in electrical and computer engineering at the University of Toronto.
+I am currently a PhD student at Harvard, working in the [EconCS](https://econcs.seas.harvard.edu/) group with [Yiling Chen](https://yiling.seas.harvard.edu/). Prior to this, I was a machine learning engineer at Cerebras Systems, where I built Tensorflow support for running very large models on our custom accelerator. I completed my Master's degree in computer science at the [University of Toronto](https://web.cs.toronto.edu) where I was supervised by [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/), and my bachelors degree in electrical and computer engineering from the same institution.
 
 I am generally interested in questions related to strategic behaviour, fairness, and incentives in learning settings. I am currently interested in studying multi-agent scenarios in online learing. I am always happy to chat about these topics!
 
