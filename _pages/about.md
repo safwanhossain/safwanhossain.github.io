@@ -15,7 +15,7 @@ I am generally interested in questions related to strategic behaviour, fairness,
 Recent 
 ======
 * **September 2022**
-  * I joined the EconCS group at Harvard to start my PhD, and working with [Yiling Chen](https://yiling.seas.harvard.edu/). 
+  * I joined the [EconCS](https://econcs.seas.harvard.edu/) group at Harvard to start my PhD, and working with [Yiling Chen](https://yiling.seas.harvard.edu/). 
   
 * **September 2021**
   * Our paper, *Fair Algorithms for Multi-Agent Multi-Armed Bandits*, was accepted at NeurIPS 2021! [paper](https://safwanhossain.github.io/files/fairMAB.pdf)
