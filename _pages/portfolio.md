@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **PhD Computer Science**, Harvard University, 
+* **PhD Computer Science**, Harvard University, 2022-
 * **MSc Computer Science**, University of Toronto, 2020 
 * **BSc Electrical and Computer Engineering**, University of Toronto, 2018
 
