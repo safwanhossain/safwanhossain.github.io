@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Machine Learning Engineer at Cerebras Systems. Prior to that, I was graduate student in computer science at the [University of Toronto](https://web.cs.toronto.edu) and [Vector Institute](https://vectorinstitute.ai/).
-I am grateful to have been supervised by [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/) \(CS Theory group\) and [Frank Rudzicz](http://www.cs.toronto.edu/~frank/) \(Vector Institute\). 
-My research explores strategic behaviour, fairness, and incentives in machine learning using techniques from algorithmic game theory, economics and mechanism design (I still continue to work on these topics). 
-Prior to graduate school, I completed my bachelors degree in electrical and computer engineering at the University of Toronto.
+I am currently a PhD student at Harvard, working in the [EconCS](https://econcs.seas.harvard.edu/) group with [Yiling Chen](https://yiling.seas.harvard.edu/). Prior to this, I was a machine learning engineer at Cerebras Systems, where I built Tensorflow support for running very large models on our custom accelator. I completed by Master's degree in computer science at the [University of Toronto](https://web.cs.toronto.edu) where I was supervised by [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/) as part of the CS Theory group. I completed my bachelors degree in electrical and computer engineering at the University of Toronto.
+
+I am generally interested in questions related to strategic behaviour, fairness, and incentives in learning settings. I am currently interested in studying multi-agent scenarios in online learing. I am always happy to chat about these topics!
 
 Recent 
 ======
+* **September 2022**
+  * I joined the EconCS group at Harvard to start my PhD, and working with [Yiling Chen](https://yiling.seas.harvard.edu/). 
+  
 * **September 2021**
   * Our paper, *Fair Algorithms for Multi-Agent Multi-Armed Bandits*, was accepted at NeurIPS 2021! [paper](https://safwanhossain.github.io/files/fairMAB.pdf)
   
@@ -35,8 +37,10 @@ Recent
 * **November 2019**
     * Our paper, *The surprising power of hiding information in facility location*, was accepted at AAAI 2020! [paper](https://safwanhossain.github.io/files/hiding.pdf)
     * Began my internship at [Xanadu](https://www.xanadu.ai/), a quantum computing research firm, as part of a Mitacs internship. I am investigating the potential of multiple quantum circuits connected classically for machine learning applications
+    
 * **June 2019**
     * Our paper, *Generative Adversarial Networks for text using word2vec intermediaries* was accepted at the 4th Workshop on Representation Learning at ACL 2019!
+    
 * **May 2019**
     * Our paper, *JacNet: Learning Functions with Structured Jacobians* was accepted at the Invertible Neural Nets and Normalizing Flows workshop at ICML 2019!
 
