@@ -19,6 +19,8 @@ Conference Publications
     
 Manuscripts
 ======
+* **Equilibrium and Learning in Fixed-Price Data Markets with Externality** [working paper, 2023](https://safwanhossain.github.io/files/arxiv_data_markets.pdf)
+* **Proportionally Fair Online Allocation of Public Goods with Predictions** [working paper, 2023](https://arxiv.org/abs/2209.15305)
 * **DeepConsensus: Using Consensus of Features From Multiple Layers to Attain Robust Image Classification** [paper, 2018](https://arxiv.org/abs/1811.07266)
     * Yuchen Li, Safwan Hossain, Kiarash Jamali, [Frank Rudzicz](http://www.cs.toronto.edu/~frank/)
 * **ChainGAN: A Sequential Approach to GANs** [paper, 2018](https://arxiv.org/abs/1811.08081)
