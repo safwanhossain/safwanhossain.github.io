@@ -14,7 +14,7 @@ I am generally interested in questions related to strategic behaviour, fairness,
 
 Recent 
 ======
-* **2022**
+* **2023**
   * Our paper *Proportionally Fair Online Allocation of Public Goods with Predictions* was accepted at IJCAI 2023! [paper](https://arxiv.org/abs/2209.15305)
    
 * **2022**
