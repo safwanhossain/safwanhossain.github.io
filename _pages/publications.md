@@ -7,6 +7,8 @@ author_profile: true
 
 Conference Publications
 =====
+* **Proportionally Fair Online Allocation of Public Goods with Predictions** [IJCAI, 2023](https://arxiv.org/abs/2209.15305)
+    * [Siddhartha Banerjee](https://sidbanerjee.orie.cornell.edu/), [Vasilis Gkatzelis](https://www.cs.drexel.edu/~gkatz/), Safwan Hossain, [Billy Jin](https://people.orie.cornell.edu/bzj3/), [Evi Micha](https://www.cs.toronto.edu/~emicha/), [Nisarg Shah](https://www.cs.toronto.edu/~nisarg/)
 * **Fair Algorithms for Multi-Agent Multi-Armed Bandits.** [NeurIPS, 2021](https://safwanhossain.github.io/files/fairMAB.pdf)
     * Safwan Hossain, Evi Micha, [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/)
 * **The Effect of Strategic Noise on Linear Regression** (AAMAS 2020) [paper](https://safwanhossain.github.io/files/equilibria_linreg.pdf)
@@ -21,8 +23,6 @@ Manuscripts
 ======
 * **Equilibrium and Learning in Fixed-Price Data Markets with Externality** [working paper, 2023](https://safwanhossain.github.io/files/arxiv_data_markets.pdf)
     * [Yiling Chen](https://yiling.seas.harvard.edu/), Safwan Hossain
-* **Proportionally Fair Online Allocation of Public Goods with Predictions** [working paper, 2023](https://arxiv.org/abs/2209.15305)
-    * [Siddhartha Banerjee](https://sidbanerjee.orie.cornell.edu/), [Vasilis Gkatzelis](https://www.cs.drexel.edu/~gkatz/), Safwan Hossain, [Billy Jin](https://people.orie.cornell.edu/bzj3/), [Evi Micha](https://www.cs.toronto.edu/~emicha/), [Nisarg Shah](https://www.cs.toronto.edu/~nisarg/)
 * **DeepConsensus: Using Consensus of Features From Multiple Layers to Attain Robust Image Classification** [paper, 2018](https://arxiv.org/abs/1811.07266)
     * Yuchen Li, Safwan Hossain, Kiarash Jamali, [Frank Rudzicz](http://www.cs.toronto.edu/~frank/)
 * **ChainGAN: A Sequential Approach to GANs** [paper, 2018](https://arxiv.org/abs/1811.08081)
