@@ -14,6 +14,9 @@ I am generally interested in questions related to strategic behaviour, fairness,
 
 Recent 
 ======
+* **April 2022**
+  * Our paper *Proportionally Fair Online Allocation of Public Goods with Predictions* was accepted at IJCAI 2023! [paper](https://arxiv.org/abs/2209.15305)
+   
 * **September 2022**
   * I joined the [EconCS](https://econcs.seas.harvard.edu/) group at Harvard to start my PhD, and working with [Yiling Chen](https://yiling.seas.harvard.edu/). 
   
