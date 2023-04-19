@@ -11,11 +11,11 @@ Conference Publications
     * [Siddhartha Banerjee](https://sidbanerjee.orie.cornell.edu/), [Vasilis Gkatzelis](https://www.cs.drexel.edu/~gkatz/), Safwan Hossain, [Billy Jin](https://people.orie.cornell.edu/bzj3/), [Evi Micha](https://www.cs.toronto.edu/~emicha/), [Nisarg Shah](https://www.cs.toronto.edu/~nisarg/)
 * **Fair Algorithms for Multi-Agent Multi-Armed Bandits.** [NeurIPS, 2021](https://safwanhossain.github.io/files/fairMAB.pdf)
     * Safwan Hossain, Evi Micha, [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/)
-* **The Effect of Strategic Noise on Linear Regression** (AAMAS 2020) [paper](https://safwanhossain.github.io/files/equilibria_linreg.pdf)
+* **The Effect of Strategic Noise on Linear Regression** (AAMAS 2020) [AAMAS 2020](https://safwanhossain.github.io/files/equilibria_linreg.pdf)
     * Safwan Hossain, [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/)
-* **Designing Fairly Fair Classifiers via Economic Fairness Notions** (WWW 2020 with Oral) [paper](https://safwanhossain.github.io/files/envy_equity.pdf)
+* **Designing Fairly Fair Classifiers via Economic Fairness Notions** [WWW/WebConf 2020](https://safwanhossain.github.io/files/envy_equity.pdf)
     * Safwan Hossain, Andjela Mladenovic, [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/)
-* **The surprising power of hiding information in facility location** (AAAI 2020) [paper](https://safwanhossain.github.io/files/hiding.pdf)
+* **The surprising power of hiding information in facility location** [AAAI 2020](https://safwanhossain.github.io/files/hiding.pdf)
     * Safwan Hossain, [Evi Micha](http://www.cs.toronto.edu/~emicha/), [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/)
 
     
