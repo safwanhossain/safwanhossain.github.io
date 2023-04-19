@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Safwan Hossain"
 title_separator          : "-"
 name                     : &name "Safwan Hossain"
-description              : &description "MSc student in Computer Science - uToronto"
+description              : &description "PhD student in Computer Science - Harvard"
 url                      : https://safwanhossain.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "safwanhossain.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Safwan Hossain"
   avatar           : "safwan_2.jpg"
-  bio              : "Computer Scientist"
-  location         : "Toronto, ON"
+  bio              : "CS PhD - Harvard"
+  location         : "Toronto + Boston"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.ca/citations?user=gyCQnUAAAAAJ&hl=en&oi=sra"
