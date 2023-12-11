@@ -21,8 +21,10 @@ Conference Publications
     
 Manuscripts
 ======
-* **Equilibrium and Learning in Fixed-Price Data Markets with Externality** [working paper, 2023](https://safwanhossain.github.io/files/arxiv_data_markets.pdf)
-    * [Yiling Chen](https://yiling.seas.harvard.edu/), Safwan Hossain
+* **A Persuasive Approach to Combating Misinformation** [working paper, 2023](https://arxiv.org/abs/2310.12065)
+    * Safwan Hossain, [Andjela Mladenovic](https://andjelamladenovic.github.io/), [Yiling Chen](https://yiling.seas.harvard.edu/), [Gauthier Giden](https://gauthiergidel.github.io/)
+* **Equilibrium and Learning in Data Markets with Externality** [working paper, 2023](https://safwanhossain.github.io/files/arxiv_data_markets.pdf)
+    * Safwan Hossain, [Yiling Chen](https://yiling.seas.harvard.edu/) 
 * **DeepConsensus: Using Consensus of Features From Multiple Layers to Attain Robust Image Classification** [paper, 2018](https://arxiv.org/abs/1811.07266)
     * Yuchen Li, Safwan Hossain, Kiarash Jamali, [Frank Rudzicz](http://www.cs.toronto.edu/~frank/)
 * **ChainGAN: A Sequential Approach to GANs** [paper, 2018](https://arxiv.org/abs/1811.08081)
