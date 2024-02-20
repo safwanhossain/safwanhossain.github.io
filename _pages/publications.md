@@ -19,16 +19,17 @@ Conference Publications
     * Safwan Hossain, [Evi Micha](http://www.cs.toronto.edu/~emicha/), [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/)
 
     
-Manuscripts
+Working Papers
 ======
-* **A Persuasive Approach to Combating Misinformation** [working paper, 2023](https://arxiv.org/abs/2310.12065)
+* **Multi-Sender Persuasion - A Computational Perspective** [working paper](https://arxiv.org/abs/2402.04971)
+    * Safwan Hossain, [Tonghan Wang](https://tonghanwang.github.io/), [Tao Lin](https://tao-l.github.io/), [Yiling Chen](https://yiling.seas.harvard.edu/), [David C. Parkes](https://parkes.seas.harvard.edu/), [Haifeng Xu](https://www.haifeng-xu.com/)
+* **Computing Voting Rules with Elicited Incomplete Votes** [working paper](https://arxiv.org/abs/2402.11104)
+    * [Daniel Halpern](https://daniel-halpern.com/), Safwan Hossain, [Jamie Tucker-Foltz](http://www.jamie.tuckerfoltz.com/)
+* **A Persuasive Approach to Combating Misinformation** [working paper](https://arxiv.org/abs/2310.12065)
     * Safwan Hossain, [Andjela Mladenovic](https://andjelamladenovic.github.io/), [Yiling Chen](https://yiling.seas.harvard.edu/), [Gauthier Giden](https://gauthiergidel.github.io/)
-* **Equilibrium and Learning in Data Markets with Externality** [working paper, 2023](https://safwanhossain.github.io/files/arxiv_data_markets.pdf)
-    * Safwan Hossain, [Yiling Chen](https://yiling.seas.harvard.edu/) 
-* **DeepConsensus: Using Consensus of Features From Multiple Layers to Attain Robust Image Classification** [paper, 2018](https://arxiv.org/abs/1811.07266)
-    * Yuchen Li, Safwan Hossain, Kiarash Jamali, [Frank Rudzicz](http://www.cs.toronto.edu/~frank/)
-* **ChainGAN: A Sequential Approach to GANs** [paper, 2018](https://arxiv.org/abs/1811.08081)
-    * Safwan Hossain, Kiarash Jamali, Yuchen Li, [Frank Rudzicz](http://www.cs.toronto.edu/~frank/)
+* **Equilibrium and Learning in Data Markets with Externality** [working paper](https://arxiv.org/abs/2302.08012)
+    * Safwan Hossain, [Yiling Chen](https://yiling.seas.harvard.edu/)
+
 
 Workshops
 ======
@@ -42,3 +43,10 @@ Workshops
 * **JacNet: Learning Functions with Structured Jacobians** [paper, 2019](https://invertibleworkshop.github.io/accepted_papers/pdfs/INNF_2019_paper_10.pdf)
     * Safwan Hossain, [Jonathan Lorraine](https://www.cs.toronto.edu/~lorraine/)
     * ICML 2019 Workshop on Invertible Neural Nets and Normalizing Flows
+ 
+Manuscripts
+======
+* **DeepConsensus: Using Consensus of Features From Multiple Layers to Attain Robust Image Classification** [paper, 2018](https://arxiv.org/abs/1811.07266)
+    * Yuchen Li, Safwan Hossain, Kiarash Jamali, [Frank Rudzicz](http://www.cs.toronto.edu/~frank/)
+* **ChainGAN: A Sequential Approach to GANs** [paper, 2018](https://arxiv.org/abs/1811.08081)
+    * Safwan Hossain, Kiarash Jamali, Yuchen Li, [Frank Rudzicz](http://www.cs.toronto.edu/~frank/)
