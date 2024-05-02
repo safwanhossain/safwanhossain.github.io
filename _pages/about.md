@@ -14,6 +14,12 @@ I am generally interested in questions related to strategic behaviour, fairness,
 
 Recent 
 ======
+* **2024**
+  * Our paper *Equilibrium of Data Markets with Externality* was accpeted at ICML 2024! [paper](https://arxiv.org/abs/2302.08012)
+  * Our paper *Multi-Sender Persuasion - A Computational Perspective* was accpeted at ICML 2024! [paper]([https://arxiv.org/abs/2302.08012](https://arxiv.org/abs/2402.04971))
+  * Our paper *A Persuasive Approach to Combating Misinformation* was accpeted at ICML 2024! [paper](https://arxiv.org/abs/2310.12065)
+  * Our paper *Social Environment Design* was accpeted at ICML 2024! [paper](https://arxiv.org/pdf/2402.14090)
+    
 * **2023**
   * Our paper *Proportionally Fair Online Allocation of Public Goods with Predictions* was accepted at IJCAI 2023! [paper](https://arxiv.org/abs/2209.15305)
    
