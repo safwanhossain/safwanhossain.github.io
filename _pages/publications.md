@@ -12,7 +12,7 @@ Peer-Reviewed Publications
 * **Multi-Sender Persuasion - A Computational Perspective** [ICML, 2024](https://arxiv.org/abs/2402.04971)
     * Safwan Hossain, [Tonghan Wang](https://tonghanwang.github.io/), [Tao Lin](https://tao-l.github.io/), [Yiling Chen](https://yiling.seas.harvard.edu/), [David C. Parkes](https://parkes.seas.harvard.edu/), [Haifeng Xu](https://www.haifeng-xu.com/)
 * **A Persuasive Approach to Combating Misinformation** [ICML, 2024](https://arxiv.org/abs/2310.12065)
-    * Safwan Hossain, [Andjela Mladenovic](https://andjelamladenovic.github.io/), [Yiling Chen](https://yiling.seas.harvard.edu/), [Gauthier Giden](https://gauthiergidel.github.io/)
+    * Safwan Hossain, [Andjela Mladenovic](https://andjelamladenovic.github.io/), [Yiling Chen](https://yiling.seas.harvard.edu/), [Gauthier Gidel](https://gauthiergidel.github.io/)
 * **Social Environment Design** [ICML, 2024](https://arxiv.org/pdf/2402.14090)
     * [Edwin Zhang](https://eddie.win/), [Sadie Zhao](https://sites.google.com/g.harvard.edu/sadiezhao/), [Tonghan Wang](https://tonghanwang.github.io/), Safwan Hossain, [Henry Gasztowtt](https://www.linkedin.com/in/henrygasztowtt/?originalSubdomain=uk), [Stephan Zhang](https://www.stephanzheng.com/), [David C. Parkes](https://parkes.seas.harvard.edu/), [Milind Tambe](https://teamcore.seas.harvard.edu/tambe), [Yiling Chen](https://yiling.seas.harvard.edu/)
 * **Proportionally Fair Online Allocation of Public Goods with Predictions** [IJCAI, 2023](https://arxiv.org/abs/2209.15305)
