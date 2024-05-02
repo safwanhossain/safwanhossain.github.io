@@ -5,12 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
-Conference Publications
+Peer-Reviewed Publications
 =====
+* **Equilibrium and Learning in Data Markets with Externality** [ICML, 2024](https://arxiv.org/abs/2302.08012)
+    * Safwan Hossain, [Yiling Chen](https://yiling.seas.harvard.edu/)
+* **Multi-Sender Persuasion - A Computational Perspective** [ICML, 2024](https://arxiv.org/abs/2402.04971)
+    * Safwan Hossain, [Tonghan Wang](https://tonghanwang.github.io/), [Tao Lin](https://tao-l.github.io/), [Yiling Chen](https://yiling.seas.harvard.edu/), [David C. Parkes](https://parkes.seas.harvard.edu/), [Haifeng Xu](https://www.haifeng-xu.com/)
+* **A Persuasive Approach to Combating Misinformation** [ICML, 2024](https://arxiv.org/abs/2310.12065)
+    * Safwan Hossain, [Andjela Mladenovic](https://andjelamladenovic.github.io/), [Yiling Chen](https://yiling.seas.harvard.edu/), [Gauthier Giden](https://gauthiergidel.github.io/)
+* **Social Environment Design** [ICML, 2024](https://arxiv.org/pdf/2402.14090)
+    * [Edwin Zhang](https://eddie.win/), [Sadie Zhao](https://sites.google.com/g.harvard.edu/sadiezhao/), [Tonghan Wang](https://tonghanwang.github.io/), Safwan Hossain, [Henry Gasztowtt](https://www.linkedin.com/in/henrygasztowtt/?originalSubdomain=uk), [Stephan Zhang](https://www.stephanzheng.com/), [David C. Parkes](https://parkes.seas.harvard.edu/), [Milind Tambe](https://teamcore.seas.harvard.edu/tambe), [Yiling Chen](https://yiling.seas.harvard.edu/)
 * **Proportionally Fair Online Allocation of Public Goods with Predictions** [IJCAI, 2023](https://arxiv.org/abs/2209.15305)
     * [Siddhartha Banerjee](https://sidbanerjee.orie.cornell.edu/), [Vasilis Gkatzelis](https://www.cs.drexel.edu/~gkatz/), Safwan Hossain, [Billy Jin](https://people.orie.cornell.edu/bzj3/), [Evi Micha](https://www.cs.toronto.edu/~emicha/), [Nisarg Shah](https://www.cs.toronto.edu/~nisarg/)
 * **Fair Algorithms for Multi-Agent Multi-Armed Bandits.** [NeurIPS, 2021](https://safwanhossain.github.io/files/fairMAB.pdf)
-    * Safwan Hossain, Evi Micha, [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/)
+    *  Safwan Hossain, Evi Micha, [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/)
 * **The Effect of Strategic Noise on Linear Regression** [AAMAS 2020](https://safwanhossain.github.io/files/equilibria_linreg.pdf)
     * Safwan Hossain, [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/)
 * **Designing Fairly Fair Classifiers via Economic Fairness Notions** [WWW/WebConf 2020](https://safwanhossain.github.io/files/envy_equity.pdf)
@@ -21,14 +29,8 @@ Conference Publications
     
 Working Papers
 ======
-* **Multi-Sender Persuasion - A Computational Perspective** [working paper](https://arxiv.org/abs/2402.04971)
-    * Safwan Hossain, [Tonghan Wang](https://tonghanwang.github.io/), [Tao Lin](https://tao-l.github.io/), [Yiling Chen](https://yiling.seas.harvard.edu/), [David C. Parkes](https://parkes.seas.harvard.edu/), [Haifeng Xu](https://www.haifeng-xu.com/)
 * **Computing Voting Rules with Elicited Incomplete Votes** [working paper](https://arxiv.org/abs/2402.11104)
     * [Daniel Halpern](https://daniel-halpern.com/), Safwan Hossain, [Jamie Tucker-Foltz](http://www.jamie.tuckerfoltz.com/)
-* **A Persuasive Approach to Combating Misinformation** [working paper](https://arxiv.org/abs/2310.12065)
-    * Safwan Hossain, [Andjela Mladenovic](https://andjelamladenovic.github.io/), [Yiling Chen](https://yiling.seas.harvard.edu/), [Gauthier Giden](https://gauthiergidel.github.io/)
-* **Equilibrium and Learning in Data Markets with Externality** [working paper](https://arxiv.org/abs/2302.08012)
-    * Safwan Hossain, [Yiling Chen](https://yiling.seas.harvard.edu/)
 
 
 Workshops
