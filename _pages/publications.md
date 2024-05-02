@@ -7,7 +7,7 @@ author_profile: true
 
 Peer-Reviewed Publications
 =====
-* **Equilibrium and Learning in Data Markets with Externality** [ICML, 2024](https://arxiv.org/abs/2302.08012)
+* <span style="color:red">some **This is Red Bold.** text</span> [ICML, 2024](https://arxiv.org/abs/2302.08012)
     * Safwan Hossain, [Yiling Chen](https://yiling.seas.harvard.edu/)
 * **Multi-Sender Persuasion - A Computational Perspective** [ICML, 2024](https://arxiv.org/abs/2402.04971)
     * Safwan Hossain, [Tonghan Wang](https://tonghanwang.github.io/), [Tao Lin](https://tao-l.github.io/), [Yiling Chen](https://yiling.seas.harvard.edu/), [David C. Parkes](https://parkes.seas.harvard.edu/), [Haifeng Xu](https://www.haifeng-xu.com/)
