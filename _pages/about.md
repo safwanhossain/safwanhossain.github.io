@@ -14,6 +14,8 @@ I am generally interested in questions related to strategic behaviour, fairness,
 
 In my free time, I love running and biking around Boston and Toronto, the two cities where I spend most of my time. I also love hiking and have visited 14 national parks across the US and Canada. I enjoy reading classic literature, cooking, and gardening. 
 
+<!---
+
 Recent 
 ======
 * **2024**
@@ -43,3 +45,4 @@ Recent
     * Our paper, *Generative Adversarial Networks for text using word2vec intermediaries* was accepted at the 4th Workshop on Representation Learning at ACL 2019!
     * Our paper, *The surprising power of hiding information in facility location*, was accepted at AAAI 2020! [paper](https://safwanhossain.github.io/files/hiding.pdf)
     * Began my internship at [Xanadu](https://www.xanadu.ai/), a quantum computing research firm, as part of a Mitacs internship. I am investigating the potential of multiple quantum circuits connected classically for machine learning applications
+-->
