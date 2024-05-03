@@ -12,7 +12,7 @@ I am currently a PhD student at Harvard, working in the [EconCS](https://econcs.
 
 My research interests are broadly at the intersection of economics and computer science. Specifically, I am interested in questions related to strategic behaviour, fairness, and incentives that arise in supervised or online learning settings with multiple agents. Recently, I have also been working on computational problems in information design. I am always happy to chat about these topics or EconCS in general!
 
-In my free time, I love running and biking around Boston and Toronto, the two cities where I spend most of my time. I also love hiking and have visited 14 national parks across the US and Canada. Beyond that, I also enjoy reading classic literature, cooking, and gardening. 
+In my free time, I love running and biking around Boston and Toronto, the two cities where I spend most of my time. I also love hiking and have visited 14 national parks across the US and Canada. Beyond that, I also enjoy reading classic literature, cooking, photography, and gardening. 
 
 <!---
 
