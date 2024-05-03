@@ -17,25 +17,26 @@ In my free time, I love running and biking around Boston and Toronto, the two ci
 Recent 
 ======
 * **2024**
-  * Our paper [Equilibrium of Data Markets with Externality](https://arxiv.org/abs/2302.08012) was accpeted at ICML 2024!
-  * Our paper *Multi-Sender Persuasion - A Computational Perspective* was accpeted at ICML 2024! [paper]([https://arxiv.org/abs/2302.08012](https://arxiv.org/abs/2402.04971))
-  * Our paper *A Persuasive Approach to Combating Misinformation* was accpeted at ICML 2024! [paper](https://arxiv.org/abs/2310.12065)
-  * Our paper *Social Environment Design* was accpeted at ICML 2024! [paper](https://arxiv.org/pdf/2402.14090)
+  * Our paper [Equilibrium of Data Markets with Externality](https://arxiv.org/abs/2302.08012) was accepted at ICML 2024!
+  * Our paper [Multi-Sender Persuasion - A Computational Perspective](https://arxiv.org/abs/2402.04971) was accpeted at ICML 2024!
+  * Our paper [A Persuasive Approach to Combating Misinformation](https://arxiv.org/abs/2310.12065) was accepted at ICML 2024!
+  * Our paper [Social Environment Design](https://arxiv.org/pdf/2402.14090) was accepted at ICML 2024!
     
 * **2023**
-  * Our paper *Proportionally Fair Online Allocation of Public Goods with Predictions* was accepted at IJCAI 2023! [paper](https://arxiv.org/abs/2209.15305)
+  * Our paper [Proportionally Fair Online Allocation of Public Goods with Predictions](https://arxiv.org/abs/2209.15305) was accepted at IJCAI 2023!
    
 * **2022**
-  * I joined the [EconCS](https://econcs.seas.harvard.edu/) group at Harvard to start my PhD, and working with [Yiling Chen](https://yiling.seas.harvard.edu/). 
+  * I joined the [EconCS](https://econcs.seas.harvard.edu/) group at Harvard to start my PhD, and work with [Yiling Chen](https://yiling.seas.harvard.edu/). 
   
 * **2021**
-  * Our paper, *Fair Algorithms for Multi-Agent Multi-Armed Bandits*, was accepted at NeurIPS 2021! [paper](https://safwanhossain.github.io/files/fairMAB.pdf)
+  * Our paper, [Fair Algorithms for Multi-Agent Multi-Armed Bandits](https://arxiv.org/abs/2007.06699), was accepted at NeurIPS 2021!
   
 * **2020**
-    * Our paper, *The Effect of Strategic Noise on Linear Regression*, was accepted at AAMAS 2020! [paper](https://safwanhossain.github.io/files/equilibria_linreg.pdf)
-    * Our paper, *Designing Fairly Fair Classifiers via Economic Fairness Notions*, was accepted at WWW 2020 with Oral! [paper](https://safwanhossain.github.io/files/envy_equity.pdf)
-    * Our paper, *Analyzing Text Specific vs Blackbox Fairness Algorithms in Multimodal Clinical NLP*, was accepted at the 3rd Clinical Natural Language Processing Workshop at EMNLP [paper](https://safwanhossain.github.io/files/clinical_nlp.pdf)! UPDATE: This paper was selected as the best short paper at the 3rd Clinical Natural Language Processing Workshop at EMNLP!
-    * I have joined [Cerebras Systems](https://www.cerebras.net/) as a Machine Learning Engineer! Cerebras builds the world's most powerful chip using wafer-scale integration to accelerate artificial intelligence by orders of magnitude. I will be initially working on the ML Frameworks team to provide integration with libraries like pyTorch and Tensorflow. 
+    * Our paper, [The Effect of Strategic Noise on Linear Regression](https://arxiv.org/abs/2007.07316), was accepted at AAMAS 2020!
+    * Our paper, [Designing Fairly Fair Classifiers via Economic Fairness Notions](https://safwanhossain.github.io/files/envy_equity.pdf), was accepted at WWW 2020 with Oral!
+    * Our paper, [Analyzing Text Specific vs Blackbox Fairness Algorithms in Multimodal Clinical NLP](https://safwanhossain.github.io/files/clinical_nlp.pdf), was selected as the best short paper at the 3rd Clinical Natural Language Processing Workshop at EMNLP!
+    * I have joined [Cerebras Systems](https://www.cerebras.net/) as a Machine Learning Engineer! Cerebras builds the world's most powerful chip using wafer-scale integration to accelerate artificial intelligence by orders of magnitude. I will be initially working on the ML Frameworks team to provide integration with libraries like pyTorch and Tensorflow.
+    * Our paper, [The surprising power of hiding information in facility location](https://safwanhossain.github.io/files/hiding.pdf), was accepted at AAAI 2020!
    
 * **2019**
     * Our paper, *JacNet: Learning Functions with Structured Jacobians* was accepted at the Invertible Neural Nets and Normalizing Flows workshop at ICML 2019!
