@@ -12,10 +12,12 @@ I am currently a PhD student at Harvard, working in the [EconCS](https://econcs.
 
 I am generally interested in questions related to strategic behaviour, fairness, and incentives in learning settings. I am currently interested in studying multi-agent scenarios in online learing. I am always happy to chat about these topics!
 
+In my free time, I love running and biking around Boston and Toronto, the two cities where I spend most of my time. I also love hiking and have visited 14 national parks across the US and Canada. I enjoy reading classic literature, cooking, and gardening. 
+
 Recent 
 ======
 * **2024**
-  * Our paper *Equilibrium of Data Markets with Externality* was accpeted at ICML 2024! [paper](https://arxiv.org/abs/2302.08012)
+  * Our paper [*Equilibrium of Data Markets with Externality*]((https://arxiv.org/abs/2302.08012)) was accpeted at ICML 2024!
   * Our paper *Multi-Sender Persuasion - A Computational Perspective* was accpeted at ICML 2024! [paper]([https://arxiv.org/abs/2302.08012](https://arxiv.org/abs/2402.04971))
   * Our paper *A Persuasive Approach to Combating Misinformation* was accpeted at ICML 2024! [paper](https://arxiv.org/abs/2310.12065)
   * Our paper *Social Environment Design* was accpeted at ICML 2024! [paper](https://arxiv.org/pdf/2402.14090)
