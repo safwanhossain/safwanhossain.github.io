@@ -17,7 +17,7 @@ In my free time, I love running and biking around Boston and Toronto, the two ci
 Recent 
 ======
 * **2024**
-  * Our paper [Equilibrium of Data Markets with Externality]((https://arxiv.org/abs/2302.08012)) was accpeted at ICML 2024!
+  * Our paper [Equilibrium of Data Markets with Externality](https://arxiv.org/abs/2302.08012) was accpeted at ICML 2024!
   * Our paper *Multi-Sender Persuasion - A Computational Perspective* was accpeted at ICML 2024! [paper]([https://arxiv.org/abs/2302.08012](https://arxiv.org/abs/2402.04971))
   * Our paper *A Persuasive Approach to Combating Misinformation* was accpeted at ICML 2024! [paper](https://arxiv.org/abs/2310.12065)
   * Our paper *Social Environment Design* was accpeted at ICML 2024! [paper](https://arxiv.org/pdf/2402.14090)
