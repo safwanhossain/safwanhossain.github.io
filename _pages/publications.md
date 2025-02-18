@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Working Papers
-=====
-1. **Framing and Signaling An LLM-Based Approach to Information Design** [\[paper\]](https://safwanhossain.github.io/files/plain_llm_context.pdf)
-    * [Paul Duetting](https://paulduetting.com/), <i>Safwan Hossain</i>, [Tao Lin](https://tao-l.github.io/), [Renato Paes Leme](https://www.renatoppl.com/), [Sai Srivatsa Ravindranath](https://saisrivatsa.com/), [Haifeng Xu](https://www.haifeng-xu.com/), [Song Zuo](https://sites.google.com/view/songzuo)
-   <br>
-
 Peer-Reviewed Publications
 =====
 1. **Strategic Classification With Externalities** [\[paper\]](https://arxiv.org/pdf/2410.08032)
