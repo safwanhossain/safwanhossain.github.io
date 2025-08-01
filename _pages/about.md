@@ -18,7 +18,9 @@ Prior to my PhD, I was a machine learning engineer at [Cerebras Systems](https:/
 - Apr. 2025: Giving a lightening round talk on information design with LLMs at the [SIGecom](https://www.sigecom.org/meetings/winter25/) Winter Meeting.
 - Mar. 2025: Started as a Student Researcher at Google Research. Working in the Market Algorithms team with [Renato Paes-Leme](https://www.renatoppl.com/) and [Song Zuo](https://sites.google.com/view/songzuo) on mechanism design problems in the context of Large Language Models.
 - Jan. 2025: **1 paper accepted to ICLR 2025 in Singapore!**
+
 ---
+
 - Oct. 2024: Giving an invited talk on [Addressing Misinformation with Persuasion](https://arxiv.org/abs/2310.12065) at the *Information Design in Incentive-aware Automated Decision Making* session of INFORMS 2024 in Seattle
 - Aug. 2024: Giving a talk on [Multi-Sender Persuasion](https://arxiv.org/abs/2402.04971) at [ESIF 2024](https://www.econometricsociety.org/regional-activities/schedule/2024/08/13/2024-ESIFEconomics-and-AIML-Meeting) (Econometrics + CS Meetup) at Cornell.
 - Jun. 2024: **1 paper accepted to EC 2024 in Yale!**
