@@ -23,7 +23,7 @@ Prior to my PhD, I was a machine learning engineer at [Cerebras Systems](https:/
 
 - Oct. 2024: Giving an invited talk on [Addressing Misinformation with Persuasion](https://arxiv.org/abs/2310.12065) at the *Information Design in Incentive-aware Automated Decision Making* session of INFORMS 2024 in Seattle
 - Aug. 2024: Giving a talk on [Multi-Sender Persuasion](https://arxiv.org/abs/2402.04971) at [ESIF 2024](https://www.econometricsociety.org/regional-activities/schedule/2024/08/13/2024-ESIFEconomics-and-AIML-Meeting) (Econometrics + CS Meetup) at Cornell.
-- Jun. 2024: **1 paper accepted to EC 2024 in Yale!**
+- Jun. 2024: **1 paper accepted to EC 2024 at Yale!**
 - May. 2024: **4 papers accepted to ICML 2024 in Vienna!**
 
 <!---
