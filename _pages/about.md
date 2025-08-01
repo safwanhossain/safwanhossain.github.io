@@ -8,19 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student at Harvard, working in the [EconCS](https://econcs.seas.harvard.edu/) group with [Yiling Chen](https://yiling.seas.harvard.edu/). My research interests are broadly at the intersection of economics and computer science. Specifically, I am interested in questions related to strategic behaviour, fairness, and incentives that arise in supervised or online learning settings with multiple agents. Recently, I have also been working on computational problems in information design. I am always happy to chat about these topics or EconCS in general!
+I am currently a PhD student at Harvard, working in the [EconCS](https://econcs.seas.harvard.edu/) group with [Yiling Chen](https://yiling.seas.harvard.edu/). My research interests are broadly at the intersection of economics and computer science. Specifically, I am interested in questions related to strategic behaviour and incentives that arise in supervised or online multi-agent learning problems. A line of my work relates to computational problems in information design. 
 
-Prior to my PhD, I was a machine learning engineer at [Cerebras Systems](https://www.cerebras.net/), where I built Tensorflow support for running very large models on our custom accelerator. I completed my Master's degree in computer science at the [University of Toronto](https://web.cs.toronto.edu) where I was supervised by [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/), and my bachelors degree in electrical and computer engineering from the same institution. In my free time, I love running and biking around Boston and Toronto, the two cities where I spend most of my time. I also love hiking and have visited 14 national parks across the US and Canada. Beyond that, I also enjoy reading classic literature, cooking, photography, and gardening. 
+Prior to my PhD, I was a machine learning engineer at [Cerebras Systems](https://www.cerebras.net/), where I built machine learning frameworks for running very large models on our custom accelerator. I completed my Master's degree in computer science at the [University of Toronto](https://web.cs.toronto.edu) where I was supervised by [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/), and my bachelors degree in electrical and computer engineering from the same institution. In my free time, I love running and biking around Boston and Toronto, the two cities where I spend most of my time. Beyond that, I also enjoy reading classic literature, cooking, and photography.
 
 ## Recent:
-- 08/2025: Giving a talk on strategic hypothesis testing at the [Incentives for Collaborative Learning and Data Sharing](https://sites.google.com/ttic.edu/incentivesdatasharing/home) workshop at TTIC in Chicago. 
-- 06/2025: Spending the summer with the [Morgan Stanley Machine Learning Research](https://www.morganstanley.com/about-us/technology/machine-learning-research-team) team in NYC. Working on an (academic) project on the game-theoretic dynamics of online resource acquisition. 
-- 03/2025: Started as a Student Researcher at Google Research. Working in the Market Algorithms team with [Renato Paes-Leme](https://www.renatoppl.com/) and [Song Zuo](https://sites.google.com/view/songzuo) on mechanism design problems in the context of Large Language Models.
-- 01/2025: **1 paper accepted to ICLR 2025 in Singapore!**
-- 10/2024: Giving an invited talk on [Addressing Misinformation with Persuasion](https://arxiv.org/abs/2310.12065) at the *Information Design in Incentive-aware Automated Decision Making* session of INFORMS 2024 in Seattle
-- 08/2024: Giving a talk on [Multi-Sender Persuasion](https://arxiv.org/abs/2402.04971) at [ESIF 2024](https://www.econometricsociety.org/regional-activities/schedule/2024/08/13/2024-ESIFEconomics-and-AIML-Meeting) (Econometrics + CS Meetup) at Cornell.
-- 06/2024: **1 paper accepted to EC 2024 in Yale!**
-- 05/2024: **4 papers accepted to ICML 2024 in Vienna!**
+- Aug. 2025: Giving a talk on strategic hypothesis testing at the [Incentives for Collaborative Learning and Data Sharing](https://sites.google.com/ttic.edu/incentivesdatasharing/home) workshop at TTIC in Chicago. 
+- Jun. 2025: Spending the summer with the [Morgan Stanley Machine Learning Research](https://www.morganstanley.com/about-us/technology/machine-learning-research-team) team in NYC. Working on an (academic) project on the game-theoretic dynamics of online resource acquisition. 
+- Apr. 2025: Giving a lightening round talk on information design with LLMs at the [SIGecom](https://www.sigecom.org/meetings/winter25/) Winter Meeting.
+- Mar. 2025: Started as a Student Researcher at Google Research. Working in the Market Algorithms team with [Renato Paes-Leme](https://www.renatoppl.com/) and [Song Zuo](https://sites.google.com/view/songzuo) on mechanism design problems in the context of Large Language Models.
+- Jan. 2025: **1 paper accepted to ICLR 2025 in Singapore!**
+---
+- Oct. 2024: Giving an invited talk on [Addressing Misinformation with Persuasion](https://arxiv.org/abs/2310.12065) at the *Information Design in Incentive-aware Automated Decision Making* session of INFORMS 2024 in Seattle
+- Aug. 2024: Giving a talk on [Multi-Sender Persuasion](https://arxiv.org/abs/2402.04971) at [ESIF 2024](https://www.econometricsociety.org/regional-activities/schedule/2024/08/13/2024-ESIFEconomics-and-AIML-Meeting) (Econometrics + CS Meetup) at Cornell.
+- Jun. 2024: **1 paper accepted to EC 2024 in Yale!**
+- May. 2024: **4 papers accepted to ICML 2024 in Vienna!**
 
 <!---
 
