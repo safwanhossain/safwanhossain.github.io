@@ -11,7 +11,7 @@ Working Papers
     * <i>Safwan Hossain</i>, [Yatong Chen](https://yatongchen.github.io/), [Yiling Chen](https://yiling.seas.harvard.edu/)
     
 2. **Framing and Signaling: An LLM-Based Approach to Information Design**
-    * [Paul Duetting](https://paulduetting.com/), <i>Safwan Hossain</i>, [Tao Lin](https://tao-l.github.io/), [Renato Paes-Leme](https://www.renatoppl.com/), [Sai Rabindranath](https://saisrivatsa.com/), [Haifeng Xu](https://www.haifeng-xu.com/), [Song Zuo](https://sites.google.com/view/songzuo) 
+    * [Paul Duetting](https://paulduetting.com/), <i>Safwan Hossain</i>, [Tao Lin](https://tao-l.github.io/), [Renato Paes-Leme](https://www.renatoppl.com/), [Sai Ravindranath](https://saisrivatsa.com/), [Haifeng Xu](https://www.haifeng-xu.com/), [Song Zuo](https://sites.google.com/view/songzuo) 
     
 3. **Learning to Lead Many: Online Bayesian Stackelberg Games**
     * Gerson Personnat, [Tao Lin](https://tao-l.github.io/), <i>Safwan Hossain</i>, [David C. Parkes](https://parkes.seas.harvard.edu/) 
