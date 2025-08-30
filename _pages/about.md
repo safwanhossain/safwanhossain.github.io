@@ -22,7 +22,9 @@ Prior to my PhD, I was a machine learning engineer at [Cerebras Systems](https:/
 
 ---
 
+- Nov. 2024: Our submission *Heartbreak* won the [ProSocial Ranking Challenge](https://humancompatible.ai/news/2024/01/18/the-prosocial-ranking-challenge-60000-in-prizes-for-better-social-media-algorithms/), a competition and real-world experiment to develop new social media rankers to improve well-being and reduce misinformation and polarization!
 - Oct. 2024: Giving an invited talk on [Addressing Misinformation with Persuasion](https://arxiv.org/abs/2310.12065) at the *Information Design in Incentive-aware Automated Decision Making* session of INFORMS 2024 in Seattle
+- Sep. 2024: [Sara Fish](https://sara-fish.github.io/) and I are organizing the EconCS Seminar this year. Reach out if you're interested in giving a talk!
 - Aug. 2024: Giving a talk on [Multi-Sender Persuasion](https://arxiv.org/abs/2402.04971) at [ESIF 2024](https://www.econometricsociety.org/regional-activities/schedule/2024/08/13/2024-ESIFEconomics-and-AIML-Meeting) (Econometrics + CS Meetup) at Cornell.
 - Jun. 2024: **1 paper accepted to EC 2024 at Yale!**
 - May. 2024: **4 papers accepted to ICML 2024 in Vienna!**
