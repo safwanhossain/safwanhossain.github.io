@@ -5,6 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
+Working Papers:
+1. **Strategic Hypothesis Testing** [\[paper\]](https://arxiv.org/abs/2508.03289)
+    * <i>Safwan Hossain</i>, [Yatong Chen](https://yatongchen.github.io/), [Yiling Chen](https://yiling.seas.harvard.edu/)
+    * Under Review
+    
+2. **Framing and Signaling: An LLM-Based Approach to Information Design**
+    * [Paul Duetting](https://paulduetting.com/), <i>Safwan Hossain</i>, [Tao Lin](https://tao-l.github.io/), [Renato Paes-Leme](https://www.renatoppl.com/), [Sai Rabindranath](https://saisrivatsa.com/), [Haifeng Xu](https://www.haifeng-xu.com/), [Song Zuo](https://sites.google.com/view/songzuo) 
+    
+3. **Learning to Lead Many: Online Bayesian Stackelberg Games**
+    * Gerson Personnat, [Tao Lin](https://tao-l.github.io/), <i>Safwan Hossain</i>, [David C. Parkes](https://parkes.seas.harvard.edu/) 
+
+
 Peer-Reviewed Publications
 =====
 1. **Strategic Classification With Externalities** [\[paper\]](https://arxiv.org/pdf/2410.08032)
@@ -66,6 +78,7 @@ Workshops
 3. **JacNet: Learning Functions with Structured Jacobians** [\[paper\]](https://invertibleworkshop.github.io/accepted_papers/pdfs/INNF_2019_paper_10.pdf)
     * <i>Safwan Hossain</i>, [Jonathan Lorraine](https://www.cs.toronto.edu/~lorraine/)
     * **ICML 2019 Workshop:** Invertible Neural Nets and Normalizing Flows Workshop
+ 
  
 Manuscripts
 ======
