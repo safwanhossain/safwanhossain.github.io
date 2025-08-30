@@ -13,9 +13,9 @@ I am currently a PhD student at Harvard, working in the [EconCS](https://econcs.
 Prior to my PhD, I was a machine learning engineer at [Cerebras Systems](https://www.cerebras.net/), where I built machine learning frameworks for running very large models on our custom accelerator. I completed my Master's degree in computer science at the [University of Toronto](https://web.cs.toronto.edu) where I was supervised by [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/), and my bachelors degree in electrical and computer engineering from the same institution. In my free time, I love to run and bike, read classic literature, and cook. 
 
 ## Recent:
-- Sep. 2025: I won the [Google PhD Fellowship](https://research.google/programs-and-events/phd-fellowship/) in the Algorithms and Optimization track!
+- Sep. 2025: **I won the [Google PhD Fellowship](https://research.google/programs-and-events/phd-fellowship/) in the Algorithms and Optimization track!**
 - Aug. 2025: Giving a talk on strategic hypothesis testing at the [Incentives for Collaborative Learning and Data Sharing](https://sites.google.com/ttic.edu/incentivesdatasharing/home) workshop at TTIC in Chicago. 
-- Jun. 2025: Spending the summer with the [Morgan Stanley Machine Learning Research](https://www.morganstanley.com/about-us/technology/machine-learning-research-team) team in NYC. Working on an (academic) project on the game-theoretic dynamics of online resource acquisition. 
+- Jun. 2025: Spending the summer with the [Morgan Stanley Machine Learning Research](https://www.morganstanley.com/about-us/technology/machine-learning-research-team) team in NYC. Working on an (academic) project on the game-theoretic dynamics of online execution algorithms. 
 - Apr. 2025: Giving a lightening talk on information design with LLMs at the [SIGecom](https://www.sigecom.org/meetings/winter25/) Winter Meeting.
 - Mar. 2025: Started as a Student Researcher at Google Research. Working in the Market Algorithms team with [Renato Paes-Leme](https://www.renatoppl.com/) and [Song Zuo](https://sites.google.com/view/songzuo) on mechanism design problems in the context of Large Language Models.
 - Jan. 2025: **1 paper accepted to ICLR 2025 in Singapore!**
