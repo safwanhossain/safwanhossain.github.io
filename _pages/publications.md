@@ -69,7 +69,7 @@ Workshops
 ======
 1. **Analyzing Text Specific vs Blackbox Fairness Algorithms in Multimodal Clinical NLP** [\[paper\]](https://safwanhossain.github.io/files/clinical_nlp.pdf)
     * [John Chen](https://johntiger1.github.io/), [Ian Berlot-Attwell](https://www.cs.toronto.edu/~ianberlot/), <i>Safwan Hossain</i>, [Xindi Wang](https://www.csd.uwo.ca/~xwang842/), [Frank Rudzicz](http://www.cs.toronto.edu/~frank/)
-    * **EMNLP 2019 Workshop:** Clinical Natural Language Processing Workshop at EMNLP. **Best Short Paper Award**
+    * **EMNLP 2019 Workshop:** Clinical Natural Language Processing Workshop at EMNLP. **(Best Short Paper Award)**
     <br>
 2. **Generative Adversarial Networks for Text Using word2vec Intermediaries** [\[paper\]](https://arxiv.org/pdf/1904.02293.pdf)
     * [Akshay Budhkar](https://www.linkedin.com/in/akshay-budhkar-06259041/?originalSubdomain=ca), [Krishnapriya Vishnubhotla](https://priya22.github.io/), <i>Safwan Hossain</i>, [Frank Rudzicz](http://www.cs.toronto.edu/~frank/)
