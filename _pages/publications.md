@@ -7,12 +7,15 @@ author_profile: true
 
 Working Papers
 =====
-1. **Framing and Signaling: An LLM-Based Approach to Information Design**
-    * [Paul Duetting](https://paulduetting.com/), <i>Safwan Hossain</i>, [Tao Lin](https://tao-l.github.io/), [Renato Paes-Leme](https://www.renatoppl.com/), [Sai Ravindranath](https://saisrivatsa.com/), [Haifeng Xu](https://www.haifeng-xu.com/), [Song Zuo](https://sites.google.com/view/songzuo) 
+1. **Framing and Signaling: An LLM-Based Approach to Information Design** [\[paper\]](https://safwanhossain.github.io/files/framing.pdf)
+    * [Paul Duetting](https://paulduetting.com/), <i>Safwan Hossain</i>, [Tao Lin](https://tao-l.github.io/), [Renato Paes-Leme](https://www.renatoppl.com/), [Sai Ravindranath](https://saisrivatsa.com/), [Haifeng Xu](https://www.haifeng-xu.com/), [Song Zuo](https://sites.google.com/view/songzuo)
+    * Presented at the [Information Economics x Large Language Models](https://sites.google.com/view/ec25-information-economics-llm) workshop at EC 2025 
     
 2. **Learning to Lead Many: Online Bayesian Stackelberg Games**
-    * Gerson Personnat, [Tao Lin](https://tao-l.github.io/), <i>Safwan Hossain</i>, [David C. Parkes](https://parkes.seas.harvard.edu/) 
-
+    * Gerson Personnat, [Tao Lin](https://tao-l.github.io/), <i>Safwan Hossain</i>, [David C. Parkes](https://parkes.seas.harvard.edu/)
+  
+3. **Learning to Acquire Resources in Competition**
+    * <i>Safwan Hossain</i>, [Mirah Shi](https://www.seas.upenn.edu/~mirahshi/), [Andrew Bennett](https://awbennett.net/), [Neil Chriss](https://en.wikipedia.org/wiki/Neil_Chriss), [Michael Kearns](https://www.cis.upenn.edu/~mkearns/), [Anderson Schneider](https://scholar.google.com/citations?user=KLyaFtUAAAAJ&hl=en), [Yuriy Nevmyvaka](https://scholar.google.com/citations?user=Hui4EIcAAAAJ&hl=en)
 
 Peer-Reviewed Publications
 =====
