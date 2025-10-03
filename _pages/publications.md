@@ -11,7 +11,7 @@ Working Papers
     * [Paul Duetting](https://paulduetting.com/), <i>Safwan Hossain</i>, [Tao Lin](https://tao-l.github.io/), [Renato Paes-Leme](https://www.renatoppl.com/), [Sai Ravindranath](https://saisrivatsa.com/), [Haifeng Xu](https://www.haifeng-xu.com/), [Song Zuo](https://sites.google.com/view/songzuo)
     * Presented at the [Information Economics x Large Language Models](https://sites.google.com/view/ec25-information-economics-llm) workshop at EC 2025 
     
-2. **Learning to Lead Many: Online Bayesian Stackelberg Games**
+2. **Learning to Lead Many: Online Bayesian Stackelberg Games** [\[paper\]](https://arxiv.org/pdf/2510.01387)
     * Gerson Personnat, [Tao Lin](https://tao-l.github.io/), <i>Safwan Hossain</i>, [David C. Parkes](https://parkes.seas.harvard.edu/)
   
 3. **Learning to Acquire Resources in Competition**
