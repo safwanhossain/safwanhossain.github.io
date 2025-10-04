@@ -13,7 +13,7 @@ I am currently a PhD student at Harvard, working in the [EconCS](https://econcs.
 Prior to my PhD, I was a machine learning engineer at [Cerebras Systems](https://www.cerebras.net/), where I built machine learning frameworks for running very large models on our custom accelerator. I completed my Master's degree in computer science at the [University of Toronto](https://web.cs.toronto.edu) where I was supervised by [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/), and my bachelors degree in electrical and computer engineering from the same institution. In my free time, I love to run and bike, read classic literature, and cook. 
 
 ## Recent:
-- Oct. 2025: I will be attending INFORMS 2025 to given an invited talk in the *Data: Markets and Collaboration* session (Monday, Oct 27 at 4:15pm).
+- Oct. 2025: Giving an invited talk in the *Data: Markets and Collaboration* session (Monday, Oct 27 at 4:15pm) at INFORMS 2025.
 - Sep. 2025: **1 Spotlight paper accepted to NeurIPS 2025 in San Diego!**
 - Sep. 2025: **I won the [Google PhD Fellowship](https://research.google/programs-and-events/phd-fellowship/) in the Algorithms and Optimization track!**
 - Aug. 2025: Giving a talk on strategic hypothesis testing at the [Incentives for Collaborative Learning and Data Sharing](https://sites.google.com/ttic.edu/incentivesdatasharing/home) workshop at TTIC in Chicago. 
