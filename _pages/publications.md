@@ -16,7 +16,7 @@ Working Papers
     * Gerson Personnat, [Tao Lin](https://tao-l.github.io/), <i>Safwan Hossain</i>, [David C. Parkes](https://parkes.seas.harvard.edu/)
     * Under Review at ICLR 2026
   
-3. **Learning to Acquire Resources in Competition**
+3. **Learning to Acquire Resources in Competition** [\[paper\]](https://safwanhossain.github.io/files/position_building.pdf)
     * <i>Safwan Hossain</i>, [Mirah Shi](https://www.seas.upenn.edu/~mirahshi/), [Andrew Bennett](https://awbennett.net/), [Neil Chriss](https://en.wikipedia.org/wiki/Neil_Chriss), [Michael Kearns](https://www.cis.upenn.edu/~mkearns/), [Anderson Schneider](https://scholar.google.com/citations?user=KLyaFtUAAAAJ&hl=en), [Yuriy Nevmyvaka](https://scholar.google.com/citations?user=Hui4EIcAAAAJ&hl=en)
     * Under Review at ICLR 2026
 
