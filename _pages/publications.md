@@ -16,11 +16,11 @@ Peer-Reviewed Publications
 1. **Information Design With Large Language Models** [\[paper\]](https://safwanhossain.github.io/files/framing.pdf)
     * [Paul Duetting](https://paulduetting.com/), <i>Safwan Hossain</i>, [Tao Lin](https://tao-l.github.io/), [Renato Paes-Leme](https://www.renatoppl.com/), [Sai Ravindranath](https://saisrivatsa.com/), [Haifeng Xu](https://www.haifeng-xu.com/), [Song Zuo](https://sites.google.com/view/songzuo)
     * **EC 2026**: ACM Conference on Economics and Computation
-      
+    <br>
 2. **Learning to Play Multi-Follower Bayesian Stackelberg Games** [\[paper\]](https://arxiv.org/pdf/2510.01387)
     * Gerson Personnat, [Tao Lin](https://tao-l.github.io/), <i>Safwan Hossain</i>, [David C. Parkes](https://parkes.seas.harvard.edu/)
     * **ICLR 2026**: International Conference on Learning Representations
-      
+    <br>
 3. **Strategic Hypothesis Testing** [\[paper\]](https://arxiv.org/abs/2508.03289)
     * <i>Safwan Hossain</i>, [Yatong Chen](https://yatongchen.github.io/), [Yiling Chen](https://yiling.seas.harvard.edu/)
     * **NeurIPS 2025**: Neural Information Processing Society **(Spotlight - Top 3% of Submission)**
