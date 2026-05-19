@@ -17,7 +17,7 @@ Prior to my PhD, I was a machine learning engineer at [Cerebras Systems](https:/
 - Feb. 2026: Giving an invited talk at MBZUAI on *Information Design in the Information Age*
 - Jan. 2026: **1 paper accepted to ICLR 2026 in Rio De Janeiro!**
 
---
+---
 
 - Oct. 2025: Giving an invited talk in the *Data: Markets and Collaboration* session (Monday, Oct 27 at 4:15pm) at INFORMS 2025.
 - Sep. 2025: **1 Spotlight paper accepted to NeurIPS 2025 in San Diego!**
