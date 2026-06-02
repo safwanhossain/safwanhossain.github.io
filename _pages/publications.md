@@ -16,6 +16,7 @@ Peer-Reviewed Publications
 1. **Learning to Acquire Resources in Competition** [\[paper\]](https://safwanhossain.github.io/files/position_building.pdf)
     * <i>Safwan Hossain</i>, [Mirah Shi](https://www.seas.upenn.edu/~mirahshi/), [Andrew Bennett](https://awbennett.net/), [Neil Chriss](https://en.wikipedia.org/wiki/Neil_Chriss), [Michael Kearns](https://www.cis.upenn.edu/~mkearns/), [Anderson Schneider](https://scholar.google.com/citations?user=KLyaFtUAAAAJ&hl=en), [Yuriy Nevmyvaka](https://scholar.google.com/citations?user=Hui4EIcAAAAJ&hl=en)
     * **TMLR**: Transactions of Machine Learning Research
+    <br>
 2. **Information Design With Large Language Models** [\[paper\]](https://safwanhossain.github.io/files/framing.pdf)
     * [Paul Duetting](https://paulduetting.com/), <i>Safwan Hossain</i>, [Tao Lin](https://tao-l.github.io/), [Renato Paes-Leme](https://www.renatoppl.com/), [Sai Ravindranath](https://saisrivatsa.com/), [Haifeng Xu](https://www.haifeng-xu.com/), [Song Zuo](https://sites.google.com/view/songzuo)
     * **EC 2026**: ACM Conference on Economics and Computation
