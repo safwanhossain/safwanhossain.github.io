@@ -13,6 +13,7 @@ I am currently a PhD student at Harvard, working in the [EconCS](https://econcs.
 Prior to my PhD, I was a machine learning engineer at [Cerebras Systems](https://www.cerebras.net/), where I built machine learning frameworks for running very large models on our custom accelerator. I completed my Master's degree in computer science at the [University of Toronto](https://web.cs.toronto.edu) where I was supervised by [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/), and my bachelors degree in electrical and computer engineering from the same institution. In my free time, I love to run and bike, read classic literature, and cook. 
 
 ## Recent:
+- Jun. 2026: **1 paper accepted to TMLR!**
 - May. 2026: **1 paper accepted to EC 2026 in Rome!**
 - Feb. 2026: Giving an invited talk at MBZUAI on *Information Design in the Information Age*
 - Jan. 2026: **1 paper accepted to ICLR 2026 in Rio De Janeiro!**
