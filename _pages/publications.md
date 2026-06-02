@@ -7,65 +7,68 @@ author_profile: true
 
 Working Papers
 =====
-1. **Learning to Acquire Resources in Competition** [\[paper\]](https://safwanhossain.github.io/files/position_building.pdf)
-    * <i>Safwan Hossain</i>, [Mirah Shi](https://www.seas.upenn.edu/~mirahshi/), [Andrew Bennett](https://awbennett.net/), [Neil Chriss](https://en.wikipedia.org/wiki/Neil_Chriss), [Michael Kearns](https://www.cis.upenn.edu/~mkearns/), [Anderson Schneider](https://scholar.google.com/citations?user=KLyaFtUAAAAJ&hl=en), [Yuriy Nevmyvaka](https://scholar.google.com/citations?user=Hui4EIcAAAAJ&hl=en)
-    * Under Review at TMLR
+1. **Evidence Markets**
+    * <i>Safwan Hossain</i>, [Gabriel Andrade](https://gpandrade.github.io/), [Chengqi Zhang](https://sites.google.com/view/macro-group-u-tokyo/home), [Yiling Chen](https://yiling.seas.harvard.edu/)
+      
 
 Peer-Reviewed Publications
 =====
-1. **Information Design With Large Language Models** [\[paper\]](https://safwanhossain.github.io/files/framing.pdf)
+1. **Learning to Acquire Resources in Competition** [\[paper\]](https://safwanhossain.github.io/files/position_building.pdf)
+    * <i>Safwan Hossain</i>, [Mirah Shi](https://www.seas.upenn.edu/~mirahshi/), [Andrew Bennett](https://awbennett.net/), [Neil Chriss](https://en.wikipedia.org/wiki/Neil_Chriss), [Michael Kearns](https://www.cis.upenn.edu/~mkearns/), [Anderson Schneider](https://scholar.google.com/citations?user=KLyaFtUAAAAJ&hl=en), [Yuriy Nevmyvaka](https://scholar.google.com/citations?user=Hui4EIcAAAAJ&hl=en)
+    * **TMLR**: Transactions of Machine Learning Research
+2. **Information Design With Large Language Models** [\[paper\]](https://safwanhossain.github.io/files/framing.pdf)
     * [Paul Duetting](https://paulduetting.com/), <i>Safwan Hossain</i>, [Tao Lin](https://tao-l.github.io/), [Renato Paes-Leme](https://www.renatoppl.com/), [Sai Ravindranath](https://saisrivatsa.com/), [Haifeng Xu](https://www.haifeng-xu.com/), [Song Zuo](https://sites.google.com/view/songzuo)
     * **EC 2026**: ACM Conference on Economics and Computation
     <br>
-2. **Learning to Play Multi-Follower Bayesian Stackelberg Games** [\[paper\]](https://arxiv.org/pdf/2510.01387)
+3. **Learning to Play Multi-Follower Bayesian Stackelberg Games** [\[paper\]](https://arxiv.org/pdf/2510.01387)
     * Gerson Personnat, [Tao Lin](https://tao-l.github.io/), <i>Safwan Hossain</i>, [David C. Parkes](https://parkes.seas.harvard.edu/)
     * **ICLR 2026**: International Conference on Learning Representations
     <br>
-3. **Strategic Hypothesis Testing** [\[paper\]](https://arxiv.org/abs/2508.03289)
+4. **Strategic Hypothesis Testing** [\[paper\]](https://arxiv.org/abs/2508.03289)
     * <i>Safwan Hossain</i>, [Yatong Chen](https://yatongchen.github.io/), [Yiling Chen](https://yiling.seas.harvard.edu/)
     * **NeurIPS 2025**: Neural Information Processing Society **(Spotlight - Top 3% of Submission)**
    <br>
-4. **Strategic Classification With Externalities** [\[paper\]](https://arxiv.org/pdf/2410.08032)
+5. **Strategic Classification With Externalities** [\[paper\]](https://arxiv.org/pdf/2410.08032)
     * <i>Safwan Hossain</i>, [Evi Micha](http://www.cs.toronto.edu/~emicha/), [Yiling Chen](https://yiling.seas.harvard.edu/), [Ariel Procaccia](https://procaccia.info/)
     * **ICLR 2025**: International Conference on Learning Representations
    <br>
-5. **Computing Voting Rules with Elicited Incomplete Votes** [\[paper\]](https://arxiv.org/abs/2402.11104)
+6. **Computing Voting Rules with Elicited Incomplete Votes** [\[paper\]](https://arxiv.org/abs/2402.11104)
     * [Daniel Halpern](https://daniel-halpern.com/), <i>Safwan Hossain</i>, [Jamie Tucker-Foltz](http://www.jamie.tuckerfoltz.com/)
     * **EC 2024**: ACM Conference on Economics and Computation
    <br>
-6. **Equilibrium of Data Markets with Externality** [\[paper\]](https://arxiv.org/abs/2302.08012) 
+7. **Equilibrium of Data Markets with Externality** [\[paper\]](https://arxiv.org/abs/2302.08012) 
     * <i>Safwan Hossain</i>, [Yiling Chen](https://yiling.seas.harvard.edu/)
     * **ICML 2024**: International Conference on Machine Learning
     <br>
-7. **Multi-Sender Persuasion - A Computational Perspective** [\[paper\]](https://arxiv.org/abs/2402.04971)
+8. **Multi-Sender Persuasion - A Computational Perspective** [\[paper\]](https://arxiv.org/abs/2402.04971)
     * <i>Safwan Hossain</i>, [Tonghan Wang](https://tonghanwang.github.io/), [Tao Lin](https://tao-l.github.io/), [Yiling Chen](https://yiling.seas.harvard.edu/), [David C. Parkes](https://parkes.seas.harvard.edu/), [Haifeng Xu](https://www.haifeng-xu.com/)
     * **ICML 2024**: International Conference on Machine Learning
     <br>
-8. **A Persuasive Approach to Combating Misinformation** [\[paper\]](https://arxiv.org/abs/2310.12065)
+9. **A Persuasive Approach to Combating Misinformation** [\[paper\]](https://arxiv.org/abs/2310.12065)
     * <i>Safwan Hossain</i>, [Andjela Mladenovic](https://andjelamladenovic.github.io/), [Yiling Chen](https://yiling.seas.harvard.edu/), [Gauthier Gidel](https://gauthiergidel.github.io/)
     * **ICML 2024**: International Conference on Machine Learning
     <br>
-9. **Social Environment Design** [\[paper\]](https://arxiv.org/pdf/2402.14090)
+10. **Social Environment Design** [\[paper\]](https://arxiv.org/pdf/2402.14090)
     * [Edwin Zhang](https://eddie.win/), [Sadie Zhao](https://sites.google.com/g.harvard.edu/sadiezhao/), [Tonghan Wang](https://tonghanwang.github.io/), <i>Safwan Hossain</i>, [Henry Gasztowtt](https://www.linkedin.com/in/henrygasztowtt/?originalSubdomain=uk), [Stephan Zhang](https://www.stephanzheng.com/), [David C. Parkes](https://parkes.seas.harvard.edu/), [Milind Tambe](https://teamcore.seas.harvard.edu/tambe), [Yiling Chen](https://yiling.seas.harvard.edu/)
     * **ICML 2024**: International Conference on Machine Learning
     <br>
-10. **Proportionally Fair Online Allocation of Public Goods with Predictions** [\[paper\]](https://arxiv.org/abs/2209.15305)
+11. **Proportionally Fair Online Allocation of Public Goods with Predictions** [\[paper\]](https://arxiv.org/abs/2209.15305)
     * [Siddhartha Banerjee](https://sidbanerjee.orie.cornell.edu/), [Vasilis Gkatzelis](https://www.cs.drexel.edu/~gkatz/), <i>Safwan Hossain</i>, [Billy Jin](https://people.orie.cornell.edu/bzj3/), [Evi Micha](https://www.cs.toronto.edu/~emicha/), [Nisarg Shah](https://www.cs.toronto.edu/~nisarg/)
     * **IJCAI 2023**: International Joint Conference on Artificial Intelligence
     <br>
-11. **Fair Algorithms for Multi-Agent Multi-Armed Bandits.** [\[paper\]](https://safwanhossain.github.io/files/fairMAB.pdf)
+12. **Fair Algorithms for Multi-Agent Multi-Armed Bandits.** [\[paper\]](https://safwanhossain.github.io/files/fairMAB.pdf)
     *  <i>Safwan Hossain</i>, [Evi Micha](http://www.cs.toronto.edu/~emicha/), [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/)
     *  **NeurIPS 2021**: Neural Information Processing Society
     <br>
-12. **The Effect of Strategic Noise on Linear Regression** [\[paper\]](https://safwanhossain.github.io/files/equilibria_linreg.pdf)
+13. **The Effect of Strategic Noise on Linear Regression** [\[paper\]](https://safwanhossain.github.io/files/equilibria_linreg.pdf)
     * <i>Safwan Hossain</i>, [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/)
     * **AAMAS 2020:** International Conference on Autonomous Agents and Multiagent Systems
     <br> 
-13. **Designing Fairly Fair Classifiers via Economic Fairness Notions** [\[paper\]](https://safwanhossain.github.io/files/envy_equity.pdf)
+14. **Designing Fairly Fair Classifiers via Economic Fairness Notions** [\[paper\]](https://safwanhossain.github.io/files/envy_equity.pdf)
     * <i>Safwan Hossain</i>, [Andjela Mladenovic](https://andjelamladenovic.github.io/), [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/)
     * **WWW 2020:** World Wide Web Conference
     <br>
-14. **The Surprising Power of Hiding Information in Facility Location** [\[paper\]](https://safwanhossain.github.io/files/hiding.pdf)
+15. **The Surprising Power of Hiding Information in Facility Location** [\[paper\]](https://safwanhossain.github.io/files/hiding.pdf)
     * <i>Safwan Hossain</i>, [Evi Micha](http://www.cs.toronto.edu/~emicha/), [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/)
     * **AAAI 2020:** Association for the Advancement of Artificial Intelligence
 
