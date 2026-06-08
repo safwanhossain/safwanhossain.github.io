@@ -13,7 +13,7 @@ Working Papers
 
 Peer-Reviewed Publications
 =====
-1. **Learning to Acquire Resources in Competition** [\[paper\]](https://safwanhossain.github.io/files/position_building.pdf)
+1. **Learning to Acquire Resources in Competition** [\[paper\]](https://arxiv.org/pdf/2606.06882)
     * <i>Safwan Hossain</i>, [Mirah Shi](https://www.seas.upenn.edu/~mirahshi/), [Andrew Bennett](https://awbennett.net/), [Neil Chriss](https://en.wikipedia.org/wiki/Neil_Chriss), [Michael Kearns](https://www.cis.upenn.edu/~mkearns/), [Anderson Schneider](https://scholar.google.com/citations?user=KLyaFtUAAAAJ&hl=en), [Yuriy Nevmyvaka](https://scholar.google.com/citations?user=Hui4EIcAAAAJ&hl=en)
     * **TMLR**: Transactions of Machine Learning Research (June 2026)
     <br>
