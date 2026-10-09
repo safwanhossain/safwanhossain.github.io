@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student at Harvard, working in the [EconCS](https://econcs.seas.harvard.edu/) group with [Yiling Chen](https://yiling.seas.harvard.edu/). My research interests are broadly at the intersection of economics and computer science. Specifically, I am interested in questions related to strategic behaviour and incentives that arise in supervised or online multi-agent learning problems. A line of my work relates to computational problems in information design. 
+I am currently part of the [Machine Learning Research Group](https://www.morganstanley.com/about-us/technology/machine-learning-research-team) at Morgan Stanley. Prior to this, I completed my PhD at Harvard, working in the [EconCS](https://econcs.seas.harvard.edu/) group with [Yiling Chen](https://yiling.seas.harvard.edu/). My research interests are broadly at the intersection of economics and computer science. I am interested in questions related to strategic behaviour and incentives that arise in multi-agent learning systems. I also work on data markets and prediction markets.
 
 Prior to my PhD, I was a machine learning engineer at [Cerebras Systems](https://www.cerebras.net/), where I built machine learning frameworks for running very large models on our custom accelerator. I completed my Master's degree in computer science at the [University of Toronto](https://web.cs.toronto.edu) where I was supervised by [Nisarg Shah](http://www.cs.toronto.edu/~nisarg/), and my bachelors degree in electrical and computer engineering from the same institution. In my free time, I love to run and bike, read classic literature, and cook. 
 
 ## Recent:
 - Jun. 2026: **1 paper accepted to TMLR!**
+- Jun. 2026: **I defended my PhD!!**
 - May. 2026: **1 paper accepted to EC 2026 in Rome!**
 - Feb. 2026: Giving an invited talk at MBZUAI on *Information Design in the Information Age*
 - Jan. 2026: **1 paper accepted to ICLR 2026 in Rio De Janeiro!**
